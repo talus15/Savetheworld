@@ -4,6 +4,12 @@
    Author's custom styles
    ========================================================================== */
 
+.jumbotron{
+    background: url(..\img\recycleguys.png);
+     background-color: lime; 
+     color: whitesmoke; 
+     text-shadow: 1px 1px 1px darkslategray; 
+ } 
 
 
 
