@@ -6,9 +6,9 @@
 
 .jumbotron{
     background: url(..\img\recycleguys.png);
-     background-color: darkgreenlime; 
-     color: whitesmoke; 
-     text-shadow: 1px 1px 1px darkslategray; 
+     background-color: lime; 
+     color: snow; 
+     text-shadow: 1px 1px 1px darkred; 
  } 
 .jumbotron h1
 {text-align: center;
